@@ -1,4 +1,4 @@
-img
+resource
 ===
 
-imgs
+images
